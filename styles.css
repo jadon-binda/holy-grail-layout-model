@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.body {
+  border: 2px solid brown;
+}
+
+.header {
+  border: 2px solid black;
+}
+
+.container-main {
+  outline: 2px solid black;
+}
+
+.menu {
+  border: 2px solid black;
+}
+
+.main-content {
+  border: 2px solid black;
+}
+
+.ads {
+  border: 2px solid black;
+}
+
+.footer {
+  border: 2px solid black;
+}
